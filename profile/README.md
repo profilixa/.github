@@ -28,6 +28,21 @@ If you're interested in collaborating with us, have questions, or just want to s
 
 We're always on the lookout for talented individuals who share our passion for technology. If you're interested in joining our team, check out our [Career Opportunities](link_to_career_opportunities.md) page. 🌟
 
+
+## Our Team 👥
+
+| ![Founder/CEO](link_to_founder_picture.png) | ![Muhammad Awais](link_to_johns_profile_picture.png) | ![Muhammad Ahmed](link_to_janes_profile_picture.png) | ![Kashif Gaurmani](link_to_alexs_profile_picture.png) | ![Muhammad Mustafa](link_to_emilys_profile_picture.png) |
+|:--:|:--:|:--:|:--:|:--:|
+| **Muhammad Shahzaib**<br>Founder/CEO | **Muhammad Awais**<br>.NET Core API specialist | **Muhammad Ahmed**<br>Marketing Expert | **Kashif Gaurmani**<br>Wordpress & SEO Expert | **Muhammad Mustafa**<br>Web Developer |
+
+
+
+
+
+
+
+
+
 ## Connect with Us 🌐
 
 Stay updated with our latest projects, news, and announcements by following us on social media:
