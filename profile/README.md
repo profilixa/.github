@@ -1,6 +1,6 @@
 # Welcome to Profilixa
 
-![Profilixa Logo](https://profilixa.com/images/logo/profilixa-logo.png)
+![Profilixa Logo](https://profilixa.com/images/logo/profilixa-logo-small.png)
 
 Profilixa is an IT company based in Pakistan, dedicated to providing cutting-edge technology solutions. This README.md serves as an introduction to our organization and provides essential information for visitors and potential collaborators. 👋
 
