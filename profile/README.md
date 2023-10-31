@@ -58,3 +58,6 @@ This repository and its content are under the [MIT License](link_to_license.md).
 We look forward to connecting with you and exploring the endless possibilities of technology together! 🚀
 
 Thank you for visiting Profilixa. 🙌
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fprofilixa&countColor=%23263759&style=plastic&labelStyle=upper)
+
