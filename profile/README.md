@@ -16,13 +16,14 @@ Profilixa is passionate about innovation, and our team of experts works tireless
 
 - **Consulting Services**: Our team offers IT consulting services to guide you through technology-related decisions and challenges. 🤝
 
+
 ## Get in Touch 📞
 
 If you're interested in collaborating with us, have questions, or just want to say hello, feel free to reach out:
 
-- **Email**: [support@profilixa.com](mailto:support@profilixa.com) ✉️
-- **Website**: [www.profilixa.com](https://www.profilixa.com) 🌐
-- **GitHub**: [Profilixa GitHub](https://github.com/profilixa) 🐱
+- **Email**: <a href="mailto:support@profilixa.com" target="_blank">support@profilixa.com</a> ✉️
+- **Website**: <a href="https://www.profilixa.com" target="_blank">www.profilixa.com</a> 🌐
+- **GitHub**: <a href="https://github.com/profilixa" target="_blank">Profilixa GitHub</a> 🐱
 
 ## Join Us 🚀
 
@@ -31,7 +32,7 @@ We're always on the lookout for talented individuals who share our passion for t
 
 ## Our Team 👥
 
-| ![Founder/CEO](link_to_founder_picture.png) | ![Muhammad Awais](link_to_johns_profile_picture.png) | ![Muhammad Ahmed](link_to_janes_profile_picture.png) | ![Kashif Gaurmani](link_to_alexs_profile_picture.png) | ![Muhammad Mustafa](link_to_emilys_profile_picture.png) |
+| ![Founder/CEO](https://pbs.twimg.com/profile_images/1549414812937064450/3uRp70Zw_400x400.jpg) | ![Muhammad Awais](link_to_johns_profile_picture.png) | ![Muhammad Ahmed](link_to_janes_profile_picture.png) | ![Kashif Gaurmani](link_to_alexs_profile_picture.png) | ![Muhammad Mustafa](link_to_emilys_profile_picture.png) |
 |:--:|:--:|:--:|:--:|:--:|
 | **Muhammad Shahzaib**<br>Founder/CEO | **Muhammad Awais**<br>.NET Core API specialist | **Muhammad Ahmed**<br>Marketing Expert | **Kashif Gaurmani**<br>Wordpress & SEO Expert | **Muhammad Mustafa**<br>Web Developer |
 
@@ -47,9 +48,11 @@ We're always on the lookout for talented individuals who share our passion for t
 
 Stay updated with our latest projects, news, and announcements by following us on social media:
 
-- [Facebook](https://www.facebook.com/profilixa) 👍
-- [Twitter](https://twitter.com/profilixa) 🐦
-- [Instagram](https://www.instagram.com/profilixa/) 📷
+
+- **Facebook**: <a href="https://www.facebook.com/profilixa" target="_blank">Facebook Page</a> 👍
+- **Twitter**: <a href="https://twitter.com/profilixa" target="_blank">Twitter Page</a> 🐦
+- **Instagram**: <a href="https://www.instagram.com/profilixa" target="_blank">Instagram Page</a> 📷
+- **YouTube**: <a href="https://www.youtube.com/@profilixa" target="_blank">YouTube Channel</a> 📺
 
 ## License 📜
 
