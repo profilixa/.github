@@ -32,7 +32,7 @@ We're always on the lookout for talented individuals who share our passion for t
 
 ## Our Team 👥
 
-| ![Founder/CEO](https://pbs.twimg.com/profile_images/1549414812937064450/3uRp70Zw_400x400.jpg) | ![Muhammad Awais](link_to_johns_profile_picture.png) | ![Muhammad Ahmed](link_to_janes_profile_picture.png) | ![Kashif Gaurmani](link_to_alexs_profile_picture.png) | ![Muhammad Mustafa](link_to_emilys_profile_picture.png) |
+| ![Founder/CEO](https://profilixa.com/images/team/owner.jpg) | ![Muhammad Awais](https://profilixa.com/images/team/placeholder.jpg) | ![Muhammad Ahmed](https://profilixa.com/images/team/placeholder.jpg) | ![Kashif Gaurmani](https://profilixa.com/images/team/placeholder.jpg) | ![Muhammad Mustafa](https://profilixa.com/images/team/placeholder.jpg) |
 |:--:|:--:|:--:|:--:|:--:|
 | **Muhammad Shahzaib**<br>Founder/CEO | **Muhammad Awais**<br>.NET Core API specialist | **Muhammad Ahmed**<br>Marketing Expert | **Kashif Gaurmani**<br>Wordpress & SEO Expert | **Muhammad Mustafa**<br>Web Developer |
 
