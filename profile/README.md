@@ -32,7 +32,7 @@ We're always on the lookout for talented individuals who share our passion for t
 
 ## Our Team 👥
 
-| ![Founder/CEO](https://profilixa.com/images/team/owner.jpg) | ![Muhammad Awais](https://github.com/profilixa/.github/assets/32793574/b621aeae-721f-425e-8bbd-f1d7a9450873) | ![Muhammad Ahmed](https://github.com/profilixa/.github/assets/32793574/67c0172d-5722-42d2-90f1-bc0bf1475e5f) | ![Kashif Gaurmani](https://github.com/profilixa/.github/assets/32793574/9d0ab3fe-9c37-4f7a-bb88-c03e30b8ac6d) | ![Muhammad Mustafa](https://profilixa.com/images/team/placeholder.jpg) |
+| ![Founder/CEO](https://avatars.githubusercontent.com/u/32793574?v=4) | ![Muhammad Awais](https://github.com/profilixa/.github/assets/32793574/b621aeae-721f-425e-8bbd-f1d7a9450873) | ![Muhammad Ahmed](https://github.com/profilixa/.github/assets/32793574/67c0172d-5722-42d2-90f1-bc0bf1475e5f) | ![Kashif Gaurmani](https://github.com/profilixa/.github/assets/32793574/9d0ab3fe-9c37-4f7a-bb88-c03e30b8ac6d) | ![Muhammad Mustafa](https://profilixa.com/images/team/placeholder.jpg) |
 |:--:|:--:|:--:|:--:|:--:|
 | **Muhammad Shahzaib**<br>Founder/CEO | **Muhammad Awais**<br>.NET Core API specialist | **Muhammad Ahmed**<br>Marketing Expert | **Kashif Gaurmani**<br>Wordpress & SEO Expert | **Muhammad Mustafa**<br>Web Developer |
 
