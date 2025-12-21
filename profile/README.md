@@ -21,10 +21,10 @@ Profilixa is passionate about innovation, and our team of experts works tireless
 
 If you're interested in collaborating with us, have questions, or just want to say hello, feel free to reach out:
 
-- **Email**: <a href="mailto:support@profilixa.com" target="_blank">support@profilixa.com</a> ✉️
+- **Email**: <a href="mailto:hello@profilixa.com" target="_blank">hello@profilixa.com</a> ✉️
 - **Website**: <a href="https://www.profilixa.com" target="_blank">www.profilixa.com</a> 🌐
 - **GitHub**: <a href="https://github.com/profilixa" target="_blank">Profilixa GitHub</a> 🐱
-- **Whatsapp**: <a href="https://wa.me/+923402087662" target="_blank">Contact Us</a> 📲
+- **Whatsapp**: <a href="https://wa.me/message/R3GZ7SZY2CXFA1" target="_blank">Contact Us On WhatsApp</a> 📲
 
 ## Join Us 🚀
 
