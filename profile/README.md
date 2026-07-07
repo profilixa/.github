@@ -21,7 +21,7 @@ Profilixa is passionate about innovation, and our team of experts works tireless
 
 If you're interested in collaborating with us, have questions, or just want to say hello, feel free to reach out:
 
-- **Email**: <a href="mailto:hello@profilixa.com" target="_blank">hello@profilixa.com</a> ✉️
+- **Email**: <a href="mailto: support@profilixa.com" target="_blank">support@profilixa.com</a> ✉️
 - **Website**: <a href="https://www.profilixa.com" target="_blank">www.profilixa.com</a> 🌐
 - **GitHub**: <a href="https://github.com/profilixa" target="_blank">Profilixa GitHub</a> 🐱
 - **Whatsapp**: <a href="https://wa.me/message/R3GZ7SZY2CXFA1" target="_blank">Contact Us On WhatsApp</a> 📲
@@ -55,9 +55,6 @@ Stay updated with our latest projects, news, and announcements by following us o
 - **Instagram**: <a href="https://www.instagram.com/profilixa" target="_blank">Instagram Page</a> 📷
 - **YouTube**: <a href="https://www.youtube.com/@profilixa" target="_blank">YouTube Channel</a> 📺
 
-## License 📜
-
-This repository and its content are under the [MIT License](link_to_license.md). You are welcome to use and modify our work following the terms of this license. 📄
 
 We look forward to connecting with you and exploring the endless possibilities of technology together! 🚀
 
